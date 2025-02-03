@@ -5,3 +5,6 @@
 
 ### Q2. Count the numbers of Characters
 ```count2.l```
+
+### Q3. Omit alternate Characters
+```count3.l```
