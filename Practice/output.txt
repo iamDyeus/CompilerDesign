@@ -1,0 +1,4 @@
+Total Characters: 65
+Total Lines: 4
+Total Words: 11
+Total White Spaces: 12

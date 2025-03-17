@@ -6,7 +6,7 @@
 %}
 %%
 "//".*   { count++; }
-"/"([^]|\+[^/])\+"/" { count++; }
+"/*"[^*]*"*"*[^*/]*"*/" { count++; }
 .|\n    { fprintf(yyout, "%s", yytext);
 	  printf ("%s",yytext); }
 
