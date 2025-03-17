@@ -3,7 +3,7 @@ Welcome to my Compiler Design coursework repository! This repository contains al
 
 ## Repository Strucutre
 ```bash
-Date(1.1.25)/
+Labs/Date(1.1.25)/
 ├── Outputs
 │   ├── question1.png
 │   ├── question2.png
