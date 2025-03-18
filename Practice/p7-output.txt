@@ -1,0 +1,17 @@
+
+String Accepted : aaaaaaaaaabbbbbbbbbbbbbb
+
+
+String Accepted : aabbaabb
+
+
+String Accepted : abab
+
+
+String Accepted : bb
+
+
+String Accepted : aa
+
+String Rejected : aaaaabbbbb
+String Rejected : aaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
